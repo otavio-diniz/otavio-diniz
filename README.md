@@ -2,9 +2,9 @@
 
 Minha trajetória profissional vem da **gestão financeira e empresarial**. Em 2026, comecei a ampliar essa base para **análise de dados, Inteligência Artificial, automação e desenvolvimento de software**, transformando problemas de negócio em projetos práticos, documentados e verificáveis.
 
-Estou em **transição para a área de tecnologia** e ainda em formação prática — não me apresento como especialista. O que este perfil procura mostrar é a evolução do trabalho: estudo, experimentação, implementação, testes, documentação, revisão crítica e melhoria contínua.
+Atualmente concentro essa evolução na interseção entre **negócio, dados e IA**. Estou ampliando minha atuação para tecnologia aplicada ao negócio sem superestimar minha senioridade técnica: o que este perfil procura demonstrar é evidência prática de estudo, experimentação, implementação, testes, documentação, revisão crítica e melhoria contínua.
 
-Tenho interesse especial na interseção entre **finanças, dados e IA**, com atenção a explicabilidade, segurança, rastreabilidade e uso responsável da tecnologia.
+Tenho interesse especial em atuar como ponte entre **problema de negócio e solução tecnológica**: entender a necessidade, avaliar onde IA faz sentido, identificar dados e contexto necessários, explicitar limitações e riscos, preservar a decisão humana, estabelecer controles e mensurar valor e adoção.
 
 ## Como uso Inteligência Artificial
 
@@ -39,9 +39,10 @@ Laboratório de fundamentos de **Git/GitHub**, preservado como evidência da evo
 ## O que este portfólio procura demonstrar
 
 - capacidade de levar um problema de negócio até um artefato técnico verificável;
+- avaliação prática de **aplicabilidade de IA**, dados/contexto necessários, limitações, riscos e controles;
 - interesse aplicado em dados, Machine Learning, GenAI e automação;
-- preocupação com explicabilidade, segurança e limites de inferência;
-- uso de métricas adequadas ao problema, e não apenas resultados superficiais;
+- preocupação com explicabilidade, segurança, rastreabilidade e **Human-in-the-Loop**;
+- uso de métricas adequadas ao problema, incluindo evolução para métricas de **valor e adoção**, e não apenas resultados técnicos;
 - documentação de proveniência, decisões, riscos e limitações;
 - evolução prática no uso de Git/GitHub, testes e revisão;
 - comunicação de conteúdo técnico para públicos com diferentes níveis de conhecimento.
@@ -50,8 +51,13 @@ Laboratório de fundamentos de **Git/GitHub**, preservado como evidência da evo
 
 `Python` · `Jupyter Notebook` · `pandas` · `scikit-learn` · `XGBoost` · `SHAP` · `Ollama` · `LLMs` · `NotebookLM` · `Git` · `GitHub` · `HTML/CSS` · `Open Finance` · `Prompt Engineering`
 
+## Contato e presença profissional
+
+- **LinkedIn:** https://www.linkedin.com/in/otavio-diniz-sc
+- **GitHub:** https://github.com/otavio-diniz
+
 ## Formação prática e próximos passos
 
-Este portfólio está em construção. Cada projeto representa uma etapa da transição entre minha experiência em **gestão financeira** e a aplicação crescente de **dados, IA e software**. Prefiro manter aqui projetos que possam ser lidos, reproduzidos ou auditados a preencher o perfil apenas por volume.
+Este portfólio está em construção. Cada projeto representa uma etapa da evolução entre minha experiência em **gestão financeira** e a aplicação crescente de **dados, IA e software**. Prefiro manter aqui projetos que possam ser lidos, reproduzidos ou auditados a preencher o perfil apenas por volume.
 
 Feedback técnico e profissional é bem-vindo. Há uma [issue pública dedicada a feedback do portfólio](https://github.com/otavio-diniz/otavio-diniz/issues/1).
