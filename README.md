@@ -21,8 +21,11 @@ Meu processo procura combinar assistência de IA com:
 
 ## Projetos em destaque
 
+### 🧭 [Geo-Explorer — TrustPath AI](https://github.com/otavio-diniz/geo-explorer-trustpath-ai)
+**Projeto principal do portfólio técnico atual.** Protótipo educacional de **capacitação responsável em IA**, desenvolvido no contexto do desafio Geo-Explorer — DIO / IBM Bob. Implementa uma jornada determinística de `/trilha → /desafio → evidências sintéticas → /certificado`, servidor MCP read-only por `stdio`, guardrails de segurança e supervisão humana. O estado publicado foi validado com **108/108 testes independentes** — 93 do Core e 15 do MCP.
+
 ### 🤖 [MILA — MEI Inteligente para Liquidez e Autonomia](https://github.com/otavio-diniz/mila-copiloto-financeiro-mei)
-Meu projeto mais completo até aqui. Protótipo de **copiloto financeiro para MEI**, desenvolvido com Python, Ollama/LLM local, regras e cálculos determinísticos, guardrails e testes automatizados. A MILA separa PF/PJ, reconstrói caixa, simula cenários e compara alternativas de crédito sem tomar a decisão pelo usuário.
+Protótipo robusto de **copiloto financeiro para MEI**, desenvolvido com Python, Ollama/LLM local, regras e cálculos determinísticos, guardrails e testes automatizados. A MILA separa PF/PJ, reconstrói caixa, simula cenários e compara alternativas de crédito sem tomar a decisão pelo usuário.
 
 ### 🧠 [Credit Card Fraud Detection with Machine Learning](https://github.com/otavio-diniz/credit-card-fraud-detection-ml)
 Projeto de análise e detecção de fraude com **Python, scikit-learn, Random Forest, XGBoost e SHAP**. Trabalha desbalanceamento de classes, comparação de métricas, ajuste de threshold, explicabilidade e análise de sensibilidade sobre duplicatas entre treino e teste.
@@ -49,7 +52,7 @@ Laboratório de fundamentos de **Git/GitHub**, preservado como evidência da evo
 
 ## Tecnologias e temas presentes nos projetos
 
-`Python` · `Jupyter Notebook` · `pandas` · `scikit-learn` · `XGBoost` · `SHAP` · `Ollama` · `LLMs` · `NotebookLM` · `Git` · `GitHub` · `HTML/CSS` · `Open Finance` · `Prompt Engineering`
+`Node.js` · `JavaScript` · `MCP` · `Zod` · `Python` · `Jupyter Notebook` · `pandas` · `scikit-learn` · `XGBoost` · `SHAP` · `Ollama` · `LLMs` · `NotebookLM` · `Git` · `GitHub` · `HTML/CSS` · `Open Finance` · `Prompt Engineering`
 
 ## Contato e presença profissional
 
